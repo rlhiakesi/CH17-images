@@ -1,0 +1,20 @@
+CH17 PAGE 017 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH17-P017-PN01
+[SILENT — NO LETTERING]
+
+CH17-P017-PN02
+SPEECH | Pilot | IDs: CH17-U0039
+(Pilot: "Prototype One. Powering up.")
+
+CH17-P017-PN03
+[SILENT — NO LETTERING]
+
+CH17-P017-PN04
+SFX | - | IDs: CH17-U0040
+SFX: THOOM.
+
+CH17-P017-PN05
+SPEECH | Chief Engineer | IDs: CH17-U0041
+(Chief Engineer: "It is no longer an exoskeleton." -> "It is a weapon.")

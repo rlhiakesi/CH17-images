@@ -1,0 +1,14 @@
+CH17 PAGE 009 — AUTHORITATIVE LETTERING TRANSCRIPT
+Preserve original wording; ALL CAPS applied in CSP only.
+
+CH17-P009-PN01
+SPEECH | Test Controller | IDs: CH17-U0020
+(Test Controller: "All four motors nominal.")
+
+CH17-P009-PN02
+SPEECH | Chief Engineer | IDs: CH17-U0021
+(Chief Engineer: "One aircraft is not a strategic fleet." -> "There are no Grand Crystals for the others.")
+
+CH17-P009-PN03
+THOUGHT | M’ow Oh | IDs: CH17-U0022
+(M’ow Oh (thinking): "A successful machine..." -> "...and an unusable investment.")
